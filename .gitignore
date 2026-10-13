@@ -1,0 +1,8 @@
+# Configuracion local
+config/config.local.php
+
+# Dependencias
+vendor/
+
+# Registros
+log/

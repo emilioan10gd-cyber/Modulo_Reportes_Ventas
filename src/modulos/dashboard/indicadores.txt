@@ -1,0 +1,7 @@
+Indicadores del dashboard de ventas
+
+- Ventas totales del mes
+- Ticket promedio por cliente
+- Ventas por sucursal
+- Productos mas vendidos
+- Cumplimiento de la meta mensual

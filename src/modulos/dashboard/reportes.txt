@@ -1,0 +1,5 @@
+Reportes del dashboard de ventas
+
+- Reporte diario de ventas realizadas
+- Reporte mensual por vendedor
+- Comparativo de ventas contra el periodo anterior
