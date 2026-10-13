@@ -1,0 +1,1 @@
+Dashboard de ventas: muestra las ventas realizadas en la compania
